@@ -6,7 +6,7 @@ date: "April 25, 2025"
 format:
   revealjs:
     theme:
-      logo: img/somepic.png
+      logo: img/safs_logo.png
       footer: "UW or my email or something"
 output: ioslides_presentation
 ---
@@ -20,9 +20,12 @@ knitr::opts_chunk$set(echo = FALSE)
 # Welcome!
 
 - Grounding, taking 2 seconds to get everyone to change gears into our space & possibly a land acknowledgement
+---
 
 ## About Me | 
 - three points of interest/ alignment with the reason I'm giving the presentation
+- my recognition
+- why i'm qualified to do this
 
 ## About You
 - temp check
@@ -30,11 +33,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # What is a Diversity Statement? (this is where I'll ask about what folks know or don't)
 
+##
 - Also known as a Perspectives or Experience Statement
 - One of three statements in an application package
-- Least clear and most misunderstood piece of the package
+- Least clear and most misunderstood piece of the package (we're going to take a look at why before we dive into details because context is crucial for crafting a solid statement)
 
----
 
 ## Timeline
 - Around since early 2000s in the UC system
@@ -50,23 +53,102 @@ knitr::opts_chunk$set(echo = FALSE)
 - Academic search committees can gauge a candidate's 'fit' with the institution/ student body
 - Documentation method to include the unpaid labor and often overlooked work of non-majority candidates
 
+
+# So, *what* is it actually?
+
+##
+- Fundamental demonstration of your values, commitments and capabilities in an academic position
+- 3 areas of demonstration (teaching, research, service) - fundamental parts of the academic position
+- Another opportunity to stand out
+
+# What it is not
+
+##
+- Not about you, your identities or privileges (counterintuitive, but explain the difference amongst the three statements and why this is true)
+- Oppression Olympics
+- Pie in the Sky, We are the World, pontification
+
 ## How does it fit in your application package?
 - Recap teaching statement purpose
 - Recap research statement purpose
 - Bow on the package
 
-
 # Why write one?
 
+##
 - Perfect opportunity to align your MVV with the institution
 - Chance to expand on what you’ve already written in your teaching & research statements
 - Demonstrates your understanding of ‘DEI’ beyond visible diversity
 - How to thematically present yourself as a candidate by weaving your narrative across all 3 statements
----
+
 
 # How to Write a Diversity Statement
 
+## Preparation | Things You'll Need
+1) Identify the institution’s MVV + the department/ committee’s perspective on that MVV ( I will provide one per table, make a few copies and pass them out)
+2) Writing Tool/ Laptop
+3) Your CV
+**Note** - we're assuming we have the job description, did our research on the students, faculty, etc
 
+## Process | Step 1: Institution's MVV
+- What resonates?
+- What's itchy?
+- What feels genuine?
+- What's aspirational?
 
+## Process | Step 2: Reflection
+This exercise is essentially creating a positionality statement - let's walk through how to do it
 
-## {data-background="/Users/cmantegna/Documents/GitHub/fish549/img/leptasterias.png" data-background-size=cover}
+- Identity/ Privilege Wheel quick exercise
+- Values + Teaching Philosophy Alignment
+- What do you know about current research in pedagogy/ research/ student engagement?
+
+## Process | Step 3: Run the Stats
+- List SPECIFIC activities you’ve created/ participated in
+- List SPECIFIC organizations you’ve created/ participated in
+- List SPECIFIC teaching tactics/ strategies you’ve employed 
+- List SPECIFIC research process accommodations/ protocols/ etc. that you’ve created
+
+## Process | Step 4: Synthesis
+- What is sticking out to you?
+- Are you balanced across the 3 areas (research, teaching, service)
+- How are you feeling emotionally? - not a pity party
+- These next points can go to takeaways. 
+
+## Process | Step 5: Drafting the Statement
+- Framing here is key (you know you're strengths and weaknesses now, so play to your strengths)
+- Reinforce how you and your work align with the institution’s MVV
+- Hook your reader - personal anecdote
+- Tell a cohesive story with specific examples
+
+# Things to Keep in Mind
+
+## Pitfalls to Avoid
+- Oversharing your personal story - this is not about you, but what you can bring to the institution (remember that legally they cannot take into account your race/ ethnicity, faith, disability, any other protected status)
+- Conversely, over-sanitizing your statement is a red flag (you cannot remove yourself from the process, don't try)
+- Lack of specificity - theory is just an unpracticed thought in this regard
+- False equivalencies - hyperbole and rhetoric are not useful tools here
+- Self depreciation due to your privilege or trauma dumping
+- Trying to make a dollar out of 15 cents - don't oversell or inflate your experiences
+
+## Tips for Writing & Editing
+- Remember: “Diversity statements are fundamentally about your values, commitments, and capabilities, and not necessarily your identities and the ways it shapes your work.”
+- If you don’t have much experience, speak to where you will implement inclusive practices. Demonstrate what you’ve learned and how you can implement it. (this signals your understanding and shows a willingness to act)
+- Limited experience does not make you a terrible educator, just a new one. (Don't let your beliefs around facts to supersede the facts themselves)
+- Writing a positionality statement first (like we modeled, will make this whole process clearer and result in a clear statement)
+- Updating your CV before listing your in-statement examples to reflect your innovations in teaching/ mentoring (shoutout KPJ)
+- Tailor it to the institution and position
+- Don't waste space restating the pieces you've clearly discussed in your teaching and research statements
+- Get another set of eyes on that joint! (preferably someone who has the position you want- leverage your upper-level network, peers are great but may lack the scope to really help)
+
+# Wrapping it up
+
+##
+- Remember, it is not who you are, but what you can do
+- Specificity, specificity, specificity!
+- Connect this statement to your teaching and research statements for maximum impact
+
+##
+- Resources can be found here: 
+- Questions?
+
