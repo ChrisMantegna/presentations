@@ -1,0 +1,72 @@
+---
+title: "Writing Diversity Statements"
+subtitle: "An IBIS Workshop"
+author: "Chris Mantegna <br> mantegna@uw.edu"
+date: "April 25, 2025"
+format:
+  revealjs:
+    theme:
+      logo: img/somepic.png
+      footer: "UW or my email or something"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+```
+
+
+# Welcome!
+
+- Grounding, taking 2 seconds to get everyone to change gears into our space & possibly a land acknowledgement
+
+## About Me | 
+- three points of interest/ alignment with the reason I'm giving the presentation
+
+## About You
+- temp check
+- pick a community builder
+
+# What is a Diversity Statement? (this is where I'll ask about what folks know or don't)
+
+- Also known as a Perspectives or Experience Statement
+- One of three statements in an application package
+- Least clear and most misunderstood piece of the package
+
+---
+
+## Timeline
+- Around since early 2000s in the UC system
+- Widely adopted in early 2010s by universities for faculty positions
+- Called into question in mid-2010s by creating the false dichotomy of DEI v Merit- based hiring
+- UC system made the statements mandatory in 2018 for tenure-track position applications
+- 2020 saw an almost absolute adoption of the practice in response to the murder of George Floyd and the inception of the nationwide Black Lives Matter movement
+- 2022 UW rejected making the statement a requirement for tenure-track applications
+- Banned in public institutions in Texas, North Carolina and Missouri in 2023 (because it isn't a 'merit-based' metric)
+- 2025 it is often a requirement in non-tenure track applications, often optional
+
+## Purpose
+- Academic search committees can gauge a candidate's 'fit' with the institution/ student body
+- Documentation method to include the unpaid labor and often overlooked work of non-majority candidates
+
+## How does it fit in your application package?
+- Recap teaching statement purpose
+- Recap research statement purpose
+- Bow on the package
+
+
+# Why write one?
+
+- Perfect opportunity to align your MVV with the institution
+- Chance to expand on what you’ve already written in your teaching & research statements
+- Demonstrates your understanding of ‘DEI’ beyond visible diversity
+- How to thematically present yourself as a candidate by weaving your narrative across all 3 statements
+---
+
+# How to Write a Diversity Statement
+
+
+
+
+## {data-background="/Users/cmantegna/Documents/GitHub/fish549/img/leptasterias.png" data-background-size=cover}
