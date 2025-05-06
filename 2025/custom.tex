@@ -1,0 +1,27 @@
+\documentclass[10pt]{beamer}
+
+% Add watermark (optional)
+\usepackage{draftwatermark}
+\SetWatermarkText{Created by Chris Mantegna University of Washington 2025}
+\SetWatermarkScale{0.3}
+\SetWatermarkColor[gray]{0.85}
+
+% Footer customization
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\lfoot{Chris Mantegna | mantegna@uw.edu}
+\rfoot{\thepage}
+
+% Allow Quarto to inject content here
+$if(header-includes)$
+$for(header-includes)$
+$header-includes$
+$endfor$
+$endif$
+
+\begin{document}
+
+$body$
+
+\end{document}

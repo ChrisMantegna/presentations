@@ -1,0 +1,38 @@
+/* GENERAL BODY STYLES */
+body {
+  background-color: #4B2E83; /* UW Purple */
+  color: #F1F1F1; /* Light Gray Text */
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+/* HEADINGS */
+h1, h2, h3, h4 {
+  color: #FFFFFF;
+  font-weight: bold;
+}
+
+/* SLIDE TITLES */
+.slide h1 {
+  color: #B7A57A; /* Gold for slide titles */
+}
+
+/* LINKS */
+a {
+  color: #B7A57A;
+  text-decoration: underline;
+}
+a:hover {
+  color: #FFFFFF;
+  background-color: #B7A57A;
+  padding: 2px 4px;
+  border-radius: 3px;
+  text-decoration: none;
+}
+
+/* CODE BLOCKS */
+code {
+  background-color: #282828;
+  color: #F1F1F1;
+  padding: 2px 4px;
+  border-radius: 3px;
+  font-family: "Courier New", Courier

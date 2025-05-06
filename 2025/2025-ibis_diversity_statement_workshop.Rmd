@@ -1,14 +1,16 @@
 ---
 title: "Writing Diversity Statements"
-subtitle: "An IBIS Workshop"
 author: "Chris Mantegna <br> mantegna@uw.edu"
 date: "April 25, 2025"
-format:
-  revealjs:
-    theme:
-      logo: img/safs_logo.png
-      footer: "UW or my email or something"
-output: ioslides_presentation
+output:
+  ioslides_presentation:
+    widescreen: true
+    incremental: true
+    css: styles.css
+    logo: images/alt_uw_logo.png
+  beamer_presentation:
+    incremental: true
+subtitle: An IBIS Workshop
 ---
 
 ```{r setup, include=FALSE}
@@ -16,139 +18,273 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
+## {.flexbox .vcenter .bigger}
+<font size="12">
+Welcome!
+</font>
 
-# Welcome!
+## {.flexbox .vcenter .bigger}
+<font size="10">
+About Me
+</font>
 
-- Grounding, taking 2 seconds to get everyone to change gears into our space & possibly a land acknowledgement
----
+## Husky at Heart
 
-## About Me | 
-- three points of interest/ alignment with the reason I'm giving the presentation
-- my recognition
-- why i'm qualified to do this
+##  {data-background=images/marbio.jpeg data-background-size=30%}
 
-## About You
-- temp check
-- pick a community builder
+## PhD loading...
 
-# What is a Diversity Statement? (this is where I'll ask about what folks know or don't)
+<div style="text-align: center; margin-bottom: 1em;">
+  <img src="images/boundless.jpg" style="width: 90%; border-radius: 6px;" />
+</div>
 
-##
+<div style="display: flex; justify-content: center; gap: 2em;">
+  <img src="images/2023yi_dock.jpeg" style="height: 160px; width: auto; object-fit: cover; border-radius: 6px;" />
+  <img src="images/outplant.jpg" style="height: 160px; width: auto; object-fit: cover; border-radius: 6px;" />
+  <img src="images/2024_innovators.jpg" style="height: 160px; width: auto; object-fit: cover; border-radius: 6px;" />
+</div>
+
+<div style="font-size: 70%; text-align: center; margin-top: 1em; color: #85754d;">
+  Interrogating Conservation in Puget Sound via Community- engaged Science
+</div>
+
+
+## Educator & Joy- Dealer
+
+<div style="text-align: center;">
+  <img src="images/int_kids.jpeg" style="width:30%; margin: 0 1%;" />
+  <img src="images/24yi_group.jpeg" style="width:30%; margin: 0 1%;" />
+  <img src="images/sicb2025.jpeg" style="width:30%; margin: 0 1%;" />
+</div>
+
+<div style="font-size: 70%; text-align: center; margin-top: 1em; color: #85754d;">
+You've gotta find joy before you can do the hard work
+</div>
+
+## {.flexbox .vcenter .bigger}
+<font size="10">
+About You
+</font>
+
+## {data-background=images/boxer.jpeg data-background-size=50% .futnote}
+
+If you could pick up a walk-up song, what would it be?
+<div class="notes">
+Please share your name, how you're feeling & a walk-up song
+</div>
+
+## {.flexbox .vcenter .bigger}
+<font size="12">
+What is a Diversity Statement?
+</font>
+
 - Also known as a Perspectives or Experience Statement
 - One of three statements in an application package
-- Least clear and most misunderstood piece of the package (we're going to take a look at why before we dive into details because context is crucial for crafting a solid statement)
+- Least clear and most misunderstood piece of the package
 
+## {.flexbox .vcenter}
+Timeline | Inception of the Diversity Statement
 
-## Timeline
-- Around since early 2000s in the UC system
-- Widely adopted in early 2010s by universities for faculty positions
-- Called into question in mid-2010s by creating the false dichotomy of DEI v Merit- based hiring
-- UC system made the statements mandatory in 2018 for tenure-track position applications
-- 2020 saw an almost absolute adoption of the practice in response to the murder of George Floyd and the inception of the nationwide Black Lives Matter movement
+- Early 2000s in the UC system
+- Early 2010s Widely adopted by universities for faculty positions
+- Mid 2010s Called into question by creating the false dichotomy of DEI v Merit- based hiring
+- 2018 UC system made the statements mandatory for tenure-track position applications
+
+## {.flexbox .vcenter}
+Timeline | Current State of the Statement
+
+- 2020 Near complete adoption of the practice **allegedly** in response to the murder of George Floyd
 - 2022 UW rejected making the statement a requirement for tenure-track applications
-- Banned in public institutions in Texas, North Carolina and Missouri in 2023 (because it isn't a 'merit-based' metric)
+- 2023 Banned in public institutions in Texas, North Carolina and Missouri
 - 2025 it is often a requirement in non-tenure track applications, often optional
 
-## Purpose
+## {.flexbox .vcenter}
+Purpose
+
 - Academic search committees can gauge a candidate's 'fit' with the institution/ student body
 - Documentation method to include the unpaid labor and often overlooked work of non-majority candidates
 
+## {.flexbox .vcenter .bigger}
+<font size="12">
+So, *what* is it actually?
+</font>
 
-# So, *what* is it actually?
+## {.flexbox .vcenter}
+It is
 
-##
 - Fundamental demonstration of your values, commitments and capabilities in an academic position
-- 3 areas of demonstration (teaching, research, service) - fundamental parts of the academic position
+- Three areas of demonstration - the core of the academic position
+  - Research
+  - Teaching
+  - Service
 - Another opportunity to stand out
 
-# What it is not
+## {.flexbox .vcenter .bigger}
+<font size="12">
+What it is *not*
+</font>
 
-##
-- Not about you, your identities or privileges (counterintuitive, but explain the difference amongst the three statements and why this is true)
-- Oppression Olympics
-- Pie in the Sky, We are the World, pontification
+## {.flexbox .vcenter}
+It is not
 
-## How does it fit in your application package?
-- Recap teaching statement purpose
-- Recap research statement purpose
-- Bow on the package
+- About you 
+  - Your identities 
+  - Your privileges 
+- Not a chance to medal in the Oppression Olympics
+- Not a savior narrative, nor a
+  - Pie in the Sky
+  - We are the World
+  - Ideological pontification
 
-# Why write one?
+## {.flexbox .vcenter}
+How does it fit in your application package?
 
-##
-- Perfect opportunity to align your MVV with the institution
-- Chance to expand on what you’ve already written in your teaching & research statements
-- Demonstrates your understanding of ‘DEI’ beyond visible diversity
-- How to thematically present yourself as a candidate by weaving your narrative across all 3 statements
+- Teaching Statement highlights your
+  - Philosophy in practice
+  - Qualifications
+  - Future contributions 
+- Research Statement highlights your
+  - Direction and purpose of scientific inquiry
+  - Funding capabilities
+  - Collaborative potential and broader field contributions
 
 
-# How to Write a Diversity Statement
+## {data-background=images/dancer.jpeg data-background-size=70% .futnote}
+Bow on the package 
 
-## Preparation | Things You'll Need
-1) Identify the institution’s MVV + the department/ committee’s perspective on that MVV ( I will provide one per table, make a few copies and pass them out)
+## {.flexbox .vcenter .bigger}
+<font size="12">
+Why write one?
+</font>
+
+## {.flexbox .vcenter}
+Why?
+
+- Demonstrate your alignment with the institution's mission, vision & values (MVV)
+- Opportunity to expand on what you’ve written in your teaching & research statements
+- Showcases your understanding of ‘DEI’ beyond visible diversity
+- Thematically present yourself as the complete package by weaving your narrative across all 3 statements
+
+## {.flexbox .vcenter .bigger}
+<font size="12">
+How to Write a Diversity Statement
+</font>
+
+## {.flexbox .vcenter}
+Preparation | Things You'll Need
+
+1) Institution's MVV
 2) Writing Tool/ Laptop
 3) Your CV
-**Note** - we're assuming we have the job description, did our research on the students, faculty, etc
 
-## Process | Step 1: Institution's MVV
-- What resonates?
-- What's itchy?
-- What feels genuine?
-- What's aspirational?
+## {.flexbox .vcenter .bigger}
+<font size="12">
+Process <br> Step 1 of 5: Institution's MVV
+</font>
 
-## Process | Step 2: Reflection
-This exercise is essentially creating a positionality statement - let's walk through how to do it
+1) What resonates?
+2) What's itchy?
+3) What feels genuine?
+4) What's aspirational?
 
-- Identity/ Privilege Wheel quick exercise
-- Values + Teaching Philosophy Alignment
-- What do you know about current research in pedagogy/ research/ student engagement?
+## {.flexbox .vcenter .bigger}
+<font size="12">
+Process <br> Step 2 of 5: Reflection
+</font>
 
-## Process | Step 3: Run the Stats
-- List SPECIFIC activities you’ve created/ participated in
-- List SPECIFIC organizations you’ve created/ participated in
-- List SPECIFIC teaching tactics/ strategies you’ve employed 
-- List SPECIFIC research process accommodations/ protocols/ etc. that you’ve created
+1) Identity/ Privilege Wheel inventory
+2) Values + Teaching Philosophy Alignment
+3) Knowledge of current research in pedagogy/ research/ student engagement
 
-## Process | Step 4: Synthesis
-- What is sticking out to you?
-- Are you balanced across the 3 areas (research, teaching, service)
-- How are you feeling emotionally? - not a pity party
-- These next points can go to takeaways. 
+## {.flexbox .vcenter .bigger}
+<font size="12">
+Process <br> Step 3 of 5: Run the Stats
+</font>
 
-## Process | Step 5: Drafting the Statement
-- Framing here is key (you know you're strengths and weaknesses now, so play to your strengths)
+1) List SPECIFIC activities you’ve created/ participated in
+2) List SPECIFIC organizations you’ve created/ participated in
+3) List SPECIFIC teaching tactics/ strategies you’ve employed 
+4) List SPECIFIC research process accommodations/ protocols/ etc. that you’ve created
+
+## {.flexbox .vcenter .bigger}
+<font size="12">
+Process <br> Step 4 of 5: Synthesis
+</font>
+
+1) What is sticking out to you?
+2) Are you balanced across the 3 areas (research, teaching, service)
+3) How are you feeling? 
+
+## {.flexbox .vcenter .bigger}
+<font size="12">
+Process <br> Step 5 of 5: Drafting the Statement
+</font>
+
+- Framing here is key 
 - Reinforce how you and your work align with the institution’s MVV
 - Hook your reader - personal anecdote
 - Tell a cohesive story with specific examples
 
-# Things to Keep in Mind
+## {.flexbox .vcenter .bigger}
+<font size="12">
+Things to Keep in Mind
+</font>
 
-## Pitfalls to Avoid
-- Oversharing your personal story - this is not about you, but what you can bring to the institution (remember that legally they cannot take into account your race/ ethnicity, faith, disability, any other protected status)
-- Conversely, over-sanitizing your statement is a red flag (you cannot remove yourself from the process, don't try)
-- Lack of specificity - theory is just an unpracticed thought in this regard
+## {.flexbox .vcenter}
+Pitfalls to Avoid
+
+- Over-sharing your personal story
+- Over-sanitizing your statement is a red flag 
+- Self depreciation due to your privilege *or* 
+- Trauma dumping to prove you've 'earned it'
+
+## {.flexbox .vcenter}
+Pitfalls to Avoid
+
 - False equivalencies - hyperbole and rhetoric are not useful tools here
-- Self depreciation due to your privilege or trauma dumping
+- Lack of specificity - theory is just an unpracticed thought in this regard
 - Trying to make a dollar out of 15 cents - don't oversell or inflate your experiences
 
-## Tips for Writing & Editing
-- Remember: “Diversity statements are fundamentally about your values, commitments, and capabilities, and not necessarily your identities and the ways it shapes your work.”
-- If you don’t have much experience, speak to where you will implement inclusive practices. Demonstrate what you’ve learned and how you can implement it. (this signals your understanding and shows a willingness to act)
-- Limited experience does not make you a terrible educator, just a new one. (Don't let your beliefs around facts to supersede the facts themselves)
-- Writing a positionality statement first (like we modeled, will make this whole process clearer and result in a clear statement)
-- Updating your CV before listing your in-statement examples to reflect your innovations in teaching/ mentoring (shoutout KPJ)
+## {.flexbox .vcenter}
+Tips for Writing & Editing
+
+- Remember: “Diversity statements are fundamentally about your values, commitments, and capabilities, and the ways it shapes your work.”
+- Limited experience does not make you a terrible educator, just a new one.
+  - Demonstrate what you’ve learned and how you can implement it. 
+  - Don't let your beliefs around the *facts* to supersede the facts themselves
+- Writing a positionality statement first 
+
+## {.flexbox .vcenter} 
+Tips for Writing & Editing
+
+- Storyboarding or concept mapping your package makes this easier to visualize
+- Updating your CV before beginning
 - Tailor it to the institution and position
-- Don't waste space restating the pieces you've clearly discussed in your teaching and research statements
-- Get another set of eyes on that joint! (preferably someone who has the position you want- leverage your upper-level network, peers are great but may lack the scope to really help)
+- Don't waste space repeating yourself
+- Get another set of eyes on that joint! 
 
-# Wrapping it up
+## {.flexbox .vcenter}
+<font size="12">
+Wrapping it up
+</font>
 
-##
+## {.flexbox .vcenter}
+Reminders
+
 - Remember, it is not who you are, but what you can do
 - Specificity, specificity, specificity!
 - Connect this statement to your teaching and research statements for maximum impact
 
-##
-- Resources can be found here: 
-- Questions?
+## {.flexbox .vcenter}
+Resources
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="images/gh_logo.jpeg" style="width:30%;"/>
+  <img src="images/linktreesvg.svg" style="width:30%;"/>
+</div>
+
+<div style="font-size: 90%; text-align: center; margin-top: 1em; color: #85754d;">
+  All content: github.com/ChrisMantegna/diversity_statements
+</div>
+
 
