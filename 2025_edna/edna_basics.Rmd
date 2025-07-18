@@ -10,7 +10,6 @@ output:
     toc_depth: 3
 ---
 
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, warning = FALSE,
                       fig.align = "center", out.width = '90%')
@@ -18,141 +17,164 @@ knitr::opts_chunk$set(echo = TRUE, warning = FALSE,
 
 <br>
 
-# Welcome & Workshop Overview 
+# Welcome
 
-Words of value to let folks know what we are up to
-1. eDNA Basics
-- We will cover the following things that will be a quick line so folks can get the gist
-2. Experimental Design: Preparation & Sampling
-- We will take a dive into how to set ourselves up for success
-3. Sample Processing & Analysis
-- We will enjoy a high level overview of the decisions, stages, and analysis options based on the decisions we made in part 1
-
-***
-
-# Intro to me and my background
-
-I have done some cool things and I will have a neat picture here to show what i mean!
-```{r, echo = FALSE, fig.align = "center", out.width = "33%"}
+```{r, echo = FALSE, fig.align = "left", out.width = "40%"}
 knitr::include_graphics("images/me_bigw.JPG")
 ```
-> This is my figure caption because it looks cool with the little line next to it
+
+
+## Plan for today
+
+1.  eDNA Basics
+
+2.  Experimental Design: Preparation & Sampling
+
+3.  Sample Processing & Analysis
+
+<br>
+
+### Thank You!
+```{r, echo = FALSE, fig.align = "left", out.width = "33%"}
+knitr::include_graphics("images/convergence_lab.png")
+```
+
+>Dr. Kassandra Ford and the University of Minnesota
+
+```{r, echo = FALSE, fig.align = "left", out.width = "33%"}
+knitr::include_graphics("images/knm_logo.jpeg")
+```
+
+>The Ichythyology Team at the National Museum of Kenya
+
+```{r, echo = FALSE, fig.align = "left", out.width = "33%"}
+knitr::include_graphics("images/safs_logo.png")
+```
+>University of Washington & The Roberts Lab
 
 # Background
+---
 
 ## Introduction
 
 Environmental DNA (eDNA) is revolutionizing biodiversity monitoring and ecological research. In this session, we explore what eDNA is, how it works, and its expanding role in conservation, research, and museum science.
 
----
+------------------------------------------------------------------------
 
 ## What is eDNA?
 
 Environmental DNA (eDNA) refers to genetic material obtained directly from environmental samples — such as water, soil, air, or snow — without the need to isolate target organisms.
 
-eDNA includes:
-- Shed skin, mucus, feces
-- Decomposed tissue
-- Gametes
-- Extracellular fragments floating in the environment
+eDNA includes: - Shed skin, mucus, feces - Decomposed tissue - Gametes - Extracellular fragments floating in the environment
 
----
+------------------------------------------------------------------------
 
 ## A Brief History of eDNA
 
 ### Early Foundations (Pre-2008)
-- Ancient DNA work from sediments and permafrost (e.g., Willerslev, Pääbo).
-- Soil microbial ecology laid the foundation for extracting DNA from complex environments.
+
+-   Ancient DNA work from sediments and permafrost (e.g., Willerslev, Pääbo).
+-   Soil microbial ecology laid the foundation for extracting DNA from complex environments.
 
 ### Pioneering Detection (2008–2012)
-- *Ficetola et al. (2008)*: Detected bullfrog DNA from pond water.
-- Established proof-of-concept: presence without physical capture.
+
+-   *Ficetola et al. (2008)*: Detected bullfrog DNA from pond water.
+-   Established proof-of-concept: presence without physical capture.
 
 ### High-Throughput Era (2012–2016)
-- Introduction of metabarcoding and next-gen sequencing.
-- Shift from single-species qPCR to community-level assessments.
-- Use of genetic markers like COI, 16S, 18S.
+
+-   Introduction of metabarcoding and next-gen sequencing.
+-   Shift from single-species qPCR to community-level assessments.
+-   Use of genetic markers like COI, 16S, 18S.
 
 ### Widening the Lens (2016–2020)
-- Applications expanded beyond water: air, soil, snow, even spider webs.
-- eDNA began to inform policy (e.g., endangered species detection).
-- Museums began exploring ethanol and substrate eDNA.
+
+-   Applications expanded beyond water: air, soil, snow, even spider webs.
+-   eDNA began to inform policy (e.g., endangered species detection).
+-   Museums began exploring ethanol and substrate eDNA.
 
 ### Current Trends (2020–Present)
-- Portable sequencing (e.g., Nanopore) for field applications.
-- Use in restoration, climate resilience, and community science.
-- Challenges include interpretation, persistence, and contamination control.
 
----
+-   Portable sequencing (e.g., Nanopore) for field applications.
+-   Use in restoration, climate resilience, and community science.
+-   Challenges include interpretation, persistence, and contamination control.
+
+------------------------------------------------------------------------
 
 ## Why Use eDNA?
 
-- **Non-invasive**: No need to catch or disturb organisms.
-- **Broad spectrum**: Can detect many taxa from a single sample.
-- **Cost-effective**: Reduces field time, increases resolution.
-- **Powerful in challenging environments**: Deep sea, wetlands, sediment cores.
+-   **Non-invasive**: No need to catch or disturb organisms.
+-   **Broad spectrum**: Can detect many taxa from a single sample.
+-   **Cost-effective**: Reduces field time, increases resolution.
+-   **Powerful in challenging environments**: Deep sea, wetlands, sediment cores.
 
----
+------------------------------------------------------------------------
 
 # Applications of eDNA
 
 ### Ecology & Conservation
-- Community biodiversity surveys
-- Invasive species detection
-- Rare/endangered species monitoring
+
+-   Community biodiversity surveys
+-   Invasive species detection
+-   Rare/endangered species monitoring
 
 ### Museum and Archive Contexts
-- Ethanol from preserved specimens
-- Substrate sampling (e.g., drawer dust, case sediment)
-- Linking DNA to voucher specimens
+
+-   Ethanol from preserved specimens
+-   Substrate sampling (e.g., drawer dust, case sediment)
+-   Linking DNA to voucher specimens
 
 ### Other Fields
-- Pathogen surveillance (e.g., wastewater SARS-CoV-2 detection)
-- Airborne eDNA for terrestrial surveys
-- Sediment cores for historical biodiversity analysis
 
----
+-   Pathogen surveillance (e.g., wastewater SARS-CoV-2 detection)
+-   Airborne eDNA for terrestrial surveys
+-   Sediment cores for historical biodiversity analysis
+
+------------------------------------------------------------------------
 
 # Core Concepts
 
 ### Metabarcoding vs. Barcoding
-- **Barcoding**: One species, one marker
-- **Metabarcoding**: Amplify a genetic region across all species in a sample
+
+-   **Barcoding**: One species, one marker
+-   **Metabarcoding**: Amplify a genetic region across all species in a sample
 
 ### Key Marker Genes
-- **COI** – animals
-- **16S** – bacteria & archaea
-- **18S** – eukaryotes
-- **ITS** – fungi
+
+-   **COI** – animals
+-   **16S** – bacteria & archaea
+-   **18S** – eukaryotes
+-   **ITS** – fungi
 
 ### ASVs vs. OTUs
-- **ASVs (Amplicon Sequence Variants)**: Exact sequence identification
-- **OTUs (Operational Taxonomic Units)**: Clustered sequences by similarity
 
----
+-   **ASVs (Amplicon Sequence Variants)**: Exact sequence identification
+-   **OTUs (Operational Taxonomic Units)**: Clustered sequences by similarity
+
+------------------------------------------------------------------------
 
 # Limitations and Considerations
 
-- eDNA doesn't always indicate **live presence**
-- Degradation and transport can **influence spatial accuracy**
-- False positives and false negatives are a concern
-- Contamination control is **crucial**
+-   eDNA doesn't always indicate **live presence**
+-   Degradation and transport can **influence spatial accuracy**
+-   False positives and false negatives are a concern
+-   Contamination control is **crucial**
 
----
+------------------------------------------------------------------------
 
 # Further Reading
 
-- Ficetola et al. 2008 – Amphibian detection via eDNA
-- Deiner et al. 2017 – Overview of aquatic eDNA
-- Taberlet et al. 2012 – Origins and potentials of eDNA
-- Yoccoz 2012 – Emerging roles in biodiversity monitoring
+-   Ficetola et al. 2008 – Amphibian detection via eDNA
+-   Deiner et al. 2017 – Overview of aquatic eDNA
+-   Taberlet et al. 2012 – Origins and potentials of eDNA
+-   Yoccoz 2012 – Emerging roles in biodiversity monitoring
 
----
+------------------------------------------------------------------------
 
 ## Appendix: Terminology Glossary
 
 | Term | Definition |
-|------|------------|
+|----|----|
 | **eDNA** | DNA from the environment (water, soil, air) |
 | **Metabarcoding** | Amplifying DNA from multiple taxa at once |
 | **ASV** | Exact sequence from reads; higher resolution than OTU |
@@ -165,4 +187,3 @@ eDNA includes:
 | **Library prep** | Preparing DNA for sequencing |
 | **Reference database** | Known sequences used to match taxa |
 | **Rarefaction** | Normalizing sequencing depth for comparison |
-
