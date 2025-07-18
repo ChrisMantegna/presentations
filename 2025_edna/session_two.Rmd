@@ -1,7 +1,10 @@
 ---
-title: "eDNA Preparation and Sampling: Designing a Rigorous Study"
+title: 'eDNA Preparation and Sampling: Designing a Rigorous Study'
 date: "July 2025"
 output:
+  pdf_document:
+    toc: true
+    toc_depth: '3'
   html_document:
     theme: spacelab
     highlight: textmate
@@ -38,6 +41,10 @@ Before collecting a single sample, it’s important to think through the full de
 - Surface water, mid-column, sediment cores.
 - Marine and freshwater protocols differ in filtration volume and salinity handling.
 
+```{r, echo = FALSE, fig.align = "left", out.width = "50%"}
+knitr::include_graphics("images/logan_and_carley.png")
+```
+
 ## Terrestrial and Air Sampling
 - Soil or snow sampling using sterile scoops or syringes.
 - Air filters or cyclone samplers for airborne DNA.
@@ -53,6 +60,10 @@ Before collecting a single sample, it’s important to think through the full de
 ## Filter Types
 - Sterivex (enclosed, on-site filtration)
 - Glass fiber or cellulose nitrate filters (lab filtration)
+
+```{r, echo = FALSE, fig.align = "left", out.width = "50%"}
+knitr::include_graphics("images/edna.jpg")
+```
 
 ## Volume Considerations
 - 250 mL to 2 L common for water samples

@@ -1,7 +1,10 @@
 ---
-title: "eDNA Basics: Concepts, Opportunities and Applications"
+title: 'eDNA Basics: Concepts, Opportunities and Applications'
 date: "July 2025"
 output:
+  pdf_document:
+    toc: true
+    toc_depth: '3'
   html_document:
     theme: spacelab
     highlight: textmate
