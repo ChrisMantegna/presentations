@@ -19,10 +19,16 @@ knitr::opts_chunk$set(echo = TRUE, warning = FALSE,
 
 # Welcome
 
-```{r, echo = FALSE, fig.align = "left", out.width = "40%"}
-knitr::include_graphics("images/me_bigw.JPG")
+```{r, echo = FALSE, fig.align = "left", out.width = "50%"}
+knitr::include_graphics("images/boundlessbanner.jpg")
 ```
 
+>Chris Mantegna, University of Washington  
+>PhD Student, Roberts Lab  
+>Marine Molecular Ecology  
+>Primary Focus is contamination's impact on the gene expression of foundational nearshore organisms. 
+
+<br>
 
 ## Plan for today
 
@@ -34,30 +40,35 @@ knitr::include_graphics("images/me_bigw.JPG")
 
 <br>
 
+
+
 ### Thank You!
-```{r, echo = FALSE, fig.align = "left", out.width = "33%"}
+```{r, echo = FALSE, fig.align = "left", out.width = "40%"}
 knitr::include_graphics("images/convergence_lab.png")
 ```
 
 >Dr. Kassandra Ford and the University of Minnesota
 
-```{r, echo = FALSE, fig.align = "left", out.width = "33%"}
-knitr::include_graphics("images/knm_logo.jpeg")
+```{r, echo = FALSE, fig.align = "left", out.width = "40%"}
+knitr::include_graphics("images/collaborators.jpeg")
 ```
 
 >The Ichythyology Team at the National Museum of Kenya
 
-```{r, echo = FALSE, fig.align = "left", out.width = "33%"}
+```{r, echo = FALSE, fig.align = "left", out.width = "40%"}
 knitr::include_graphics("images/safs_logo.png")
 ```
+
 >University of Washington & The Roberts Lab
 
+
+<br>
+
 # Background
----
 
 ## Introduction
 
-Environmental DNA (eDNA) is revolutionizing biodiversity monitoring and ecological research. In this session, we explore what eDNA is, how it works, and its expanding role in conservation, research, and museum science.
+Environmental DNA (eDNA) is changing biodiversity monitoring and ecological research. In this session, we explore what eDNA is, how it works, and its expanding role in conservation, research, and museum science.
 
 ------------------------------------------------------------------------
 
@@ -66,6 +77,10 @@ Environmental DNA (eDNA) is revolutionizing biodiversity monitoring and ecologic
 Environmental DNA (eDNA) refers to genetic material obtained directly from environmental samples — such as water, soil, air, or snow — without the need to isolate target organisms.
 
 eDNA includes: - Shed skin, mucus, feces - Decomposed tissue - Gametes - Extracellular fragments floating in the environment
+
+```{r, echo = FALSE, fig.align = "left", out.width = "50%"}
+knitr::include_graphics("images/edna_sources.jpg")
+```
 
 ------------------------------------------------------------------------
 
@@ -120,7 +135,7 @@ eDNA includes: - Shed skin, mucus, feces - Decomposed tissue - Gametes - Extrace
 
 ### Museum and Archive Contexts
 
--   Ethanol from preserved specimens
+-   Sequencing some preserved specimens
 -   Substrate sampling (e.g., drawer dust, case sediment)
 -   Linking DNA to voucher specimens
 
