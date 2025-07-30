@@ -2,15 +2,15 @@
 title: 'eDNA Preparation and Sampling: Designing a Rigorous Study'
 date: "July 2025"
 output:
-  pdf_document:
-    toc: true
-    toc_depth: '3'
   html_document:
     theme: spacelab
     highlight: textmate
     toc: true
     toc_float: true
     toc_depth: 3
+  pdf_document:
+    toc: true
+    toc_depth: '3'
 ---
 
 # Introduction
